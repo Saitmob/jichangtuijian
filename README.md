@@ -46,7 +46,7 @@ WgetCloud （原 GaCloud） 是一家主打稳定翻墙的机场服务商，采�
 
 - V2ray 翻墙机场
 - IPLC/IEPL 专线机场
-- 9折优惠码：[999](https://clashxiazai.com/ssrdog)
+- 9折优惠码：[999](https://st1.hosbb.com/#/register?code=2ZO8gT5a)
 
 SSRDOG 是一家运营始于2022年的翻墙机场，采用V2ray安全协议，线路有 IEPL 和 IPLC 专线，对 Netflix、Disney+ 流媒体解锁支持度也很好。SSRDOG 机场有定制的一键翻墙VPN客户端，支持安卓、Mac 和 Windows 。iOS 用户推荐使用 Clash for iOS - Stash 代理软件。SSRDOG 机场注册可[免费试用](https://st1.hosbb.com/#/register?code=2ZO8gT5a)，除了常规包月套餐外，也有不限时长的按量付费流量包套餐，套餐年付均有优惠。  
  **套餐价格：**
