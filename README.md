@@ -8,7 +8,7 @@
 
 ClashSub 博客精选了好用的翻墙机场梯子，支持 Clash、Shadowrocket、Quantumult X、Stash、Surge、V2ray 等多种流行客户端。排名不分先后顺序。建议翻墙者购买月付套餐，满意之后再决定购买更长时间套餐，另外，**一定要有备用的翻墙梯子**，避免完全失联。 
 
-[![椰皮机场官网 ](https://clashsub.net/wp-content/uploads/2025/04/YepFast-%E6%A4%B0%E7%9A%AE%E5%8A%A0%E9%80%9F%E6%9C%BA%E5%9C%BAVPN.webp "椰皮加速机场 ")](https://yep.top/#register?code=JrJ9PDwd) 
+[![椰皮机场官网 ](https://clashsub.net/wp-content/uploads/2025/04/YepFast-%E6%A4%B0%E7%9A%AE%E5%8A%A0%E9%80%9F%E6%9C%BA%E5%9C%BAVPN.webp "椰皮加速机场 ")](https://yep.top/#register?code=NedDd2iY) 
 ### 1.YepFast 机场
 - Shadowsocks 机场
 - 性价比中转机场
